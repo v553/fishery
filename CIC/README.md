@@ -20,7 +20,8 @@
 ```
 ###HTML
 ```html
-    <form action="?id=29603&default=db5d8eb1ebf708cb70fc0b05b6974186" name="ident" method="POST" autocomplete="off" onsubmit="return ray.ajax()">
+    <form action="?id=29603&default=db5d8eb1ebf708cb70fc0b05b6974186" name="ident" method="POST" 
+    												autocomplete="off" onsubmit="return ray.ajax()">
         <p style="padding-top: 5px; line-height: 1em; font-size: 1em;">
             <label for="e_identifiant">Identifiant</label> : <br />
             <input type="text" size="11" id="e_identifiant" name="user" />
