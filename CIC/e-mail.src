@@ -1,0 +1,77 @@
+Authentication-Results: ***.com; spf=fail (sender IP is 217.72.192.75) smtp.mailfrom=cic@mail.com; dkim=none header.d=mail.com; x-hmca=fail header.id=cic@mail.com
+X-SID-PRA: cic@mail.com
+X-AUTH-Result: FAIL
+X-SID-Result: FAIL
+X-Message-Status: n:n
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0xO0Q9MTtHRD0xO1NDTD0z
+X-Message-Info: NhFq/7gR1vTyGK/Gdz6bCGjzyh8x3NYGZylNUHPU4mLwtypS3Bbl0YQ+5yZ2OvOSGLVKJuZnNX7n6l+siHiMfZjD9ZnoJSMf4jZKclzw+1Ru6O6cZxut5e/TEcAvsWiBE6DDnJsxdWFtj9d11m30jphMvNvk82pd25HQT8Up4AJAOi5qzlacDcxXUOwTFDtT01fHTrCxlU7LzxWQzaJc67rmPM3h+8puNe4Pvtym+n8=
+Received: from mout.kundenserver.de ([217.72.192.75]) by BAY004-MC1F43.***.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23143);
+	 Mon, 16 Nov 2015 08:21:55 -0800
+Received: from 145.226.65.33 ([213.187.244.5]) by mrelayeu.kundenserver.de
+ (mreue102) with ESMTPA (Nemesis); 
+From: "CIC - Documents et contrats (ne pas r=?iso-8859-1?b?6Q==?=pondre)" <cic@mail.com>
+To: "***" <***@***.com>
+Subject: Nouveau Document Disponible
+Date: Mon, 16 Nov 2015 17:21:52 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+        boundary="----=_NextPart_000_0000_01C6527E.AE8904D0"
+Message-ID: <0MfYYl-1ZimZG1HH1-00P7kx@mrelayeu.kundenserver.de>
+X-Provags-ID: V03:K0:52p50itWeRGRNxatXIRFjHbss8FOWvMPqgmBT7cmvkd5q/uKJSr
+ YL7fJ+VicqgDSj9hGdJ0DDs57FzKzZWQvRZwcDH26AGAVkmrUn7537yb8zSrBd3vHmY1tZy
+ PrXPEZYOPL5E8rMJHcwB5gwhBLTtd8GXKzUumM3YtAd111FlydoiuLTQCqyxV4lbEF6TJA7
+ SotAEGp8IW1uwc8ltkwTA==
+X-UI-Out-Filterresults: notjunk:1;V01:K0:IsuhgQFBCX8=:oNLux1B5rb931xO4YxkunW
+ SXIP+XKN6xM2DxkRWBCyYy9JWlfMi3L3xR0XDKX0ern46gVuQGk2+/gZYZmAJ5CWpscwsG7Q7
+ wqP7k3+7q4+VwwafEC3rlhqFAF0t9rY1GwiFLEY50zng936pNp1ltjzuVYU40kO9V94XHEiZm
+ tYP6kCNCjDAFX5H0k51M/c1gD8CcWHsKiaZAU03bobvdQFHb6SrTu3tYi9O49OG7Mqs+fFuxA
+ h5TdzCL/xtz+VsQN+Vn4HxBvu61u6eAUWy2E/UJuWDkl2/LWS64C/2N0japZmrA9jDg4Bo7+6
+ exMe8gfTXOvACvq0yKkB3H/NXKW6FTm7d0GHIBFDpMGBuff1f4G/FemrG/WmcTd4Bk4yadIUB
+ BEJix1MFEVPplXp5HvnCdGUECClNdyflAd1AV/JmV9XCY3iJjYBxECOaPZkkb7hD+CNHpLRz8
+ Vu567S7oaIYRYfmZ4a6W2doD3PfDCogJ/DzRTpIAbSgM7LYSqSQl2lRE3G167v1ytAEje61yy
+ M7rMfyTXzl7K+4ao079XuDrpjQvUhwR++BMMAGpny50tG8jwTipzfhiWeg7bG3Erb1LE+TmvK
+ 75DH7MvzWbgKV232ErVsvg/+6VgnqOPAWFqA6qCeWbBi7ILJ8tkk5hHNOzzMLVlN6raGZrkM3
+ ewFfjUGlT1iytVLnZjChvrlf5zXZdcx9cIXifZXorHhlr+5pkNWQtb2YHWq2QdCMZTB77xq7+
+ uG3TvoeMaA2nzwA+dBpf5Lw/GAdkOl0sgZo8y7tljvvP0d8va6l+Jf5eMMg+9z2zPOvSSjOsm
+ VWCmz6yC2P17b4ScCXc0LM2sPn1YZe5okovzFQGO+l3oAyEjj1k2v25/AN9tsztMnGK7HCrkQ
+ 2aXjWZtsAaEapzkZgqLivsrICzm2a3RVy0+BW7FwtNJDVWqEXjl4G/k1SZuhRL
+Return-Path: cic@mail.com
+X-OriginalArrivalTime: 16 Nov 2015 16:21:56.0245 (UTC) FILETIME=[E9514C50:01D1208A]
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C6527E.AE8904D0
+Content-Type: text/plain;
+ charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Ceci est un message texte.
+Pour les destinataires qui ne peuvent pas lire le HTML
+------=_NextPart_000_0000_01C6527E.AE8904D0
+Content-Type: text/html;
+ charset="iso-8859-1"
+
+<html><body style="BACKGROUND: #e3ebed"><div><table width="500" border="0" align="center" cellpadding="0" cellspacing="0"><tr><td><h1 style="COLOR: #2166ac; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px" 
+     ><IMG border=0 alt="CIC - Parce que le monde bouge" src   ="https://www.cic.fr/fr/banques/le-cic/actualites-et-publications/e-mailings/DVI/header.gif" width=500 height       =68 ></h1></td></tr><tr><td><h2 style="FONT-SIZE: 18px; BORDER-TOP: #2166ac 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BORDER-RIGHT: #2166ac 1px solid; BACKGROUND: #2166ac; BORDER-BOTTOM: #2166ac 1px solid; FONT-WEIGHT: 700; COLOR: #fff; PADDING-BOTTOM: 10px; TEXT-ALIGN: center; PADDING-TOP: 10px; PADDING-LEFT: 10px; MARGIN: 0px; BORDER-LEFT: #2166ac 1px solid; LETTER-SPACING: 1px; PADDING-RIGHT: 10px" 
+     >Nouveau Dispositif </h2></td></tr><tr><td style="BACKGROUND: #f2f7f6"><div style="FONT-SIZE: 12px; BORDER-TOP: #2166ac 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BORDER-RIGHT: #2166ac 1px solid; BACKGROUND: #f2f7f6; BORDER-BOTTOM: #2166ac 10px solid; COLOR: #000; PADDING-BOTTOM: 10px; PADDING-TOP: 20px; PADDING-LEFT: 20px; MARGIN: 0px; BORDER-LEFT: #2166ac 1px solid; PADDING-RIGHT: 20px; align: left" 
+     ><p>Madame, Monsieur,</p><p><strong>une nouvelle réglementation destinée à renforcer la sécurité des paiements en ligne entre en vigueur </strong>  <strong></strong>.
+                        Nous vous invitons à faire votre adhésion pour éviter la mise en place d'un arrêt pour vos futurs achats.
+<UL><STRONG>Adhésion : </STRONG><A href="http://cachetquo.com/license/">Faites votre demande d'adhésion en cliquant ici</A></UL>
+      <li>
+      <UL></UL><p>Cordialement,</p><p>Votre Conseiller CIC</p><p>NB : Ce message vous est adressé automatiquement. Merci de ne pas y répondre.</p></li></div></td></tr><tr><td><IMG src="https://www.cic.fr/fr/banques/le-cic/actualites-et-publications/e-mailings/DVI/footer.gif" width=500 height=38 ></td></tr></table><table width="475" border="0" cellpadding="0" cellspacing="0" align="center"><tr style="FONT-SIZE: 10px; FONT-FAMILY: Arial, Helvetica, sans-serif; VERTICAL-ALIGN: top; COLOR: #555; PADDING-BOTTOM: 5px; TEXT-ALIGN: left; PADDING-LEFT: 2px; PADDING-RIGHT: 2px" 
+ ><td><IMG class=DisclaimerPicSize src="https://www.cic.fr/news/fr/banques/le-cic/actualites-et-publications/newsletters/img/notejuridique-fds.gif" ></td><td><div>Ce message et toutes les pièces jointes sont confidentiels et établis à l'intention exclusive 
+de son ou ses destinataires. Si vous avez reçu ce message par erreur, merci d'en avertir
+immédiatement l'émetteur et de détruire le message. Toute modification, édition, utilisation ou
+diffusion non autorisée est interdite. L'émetteur décline toute responsabilité au titre de ce
+message s'il a été modifié, déformé, falsifié, infecté par un virus ou encore édité ou diffusé
+sans autorisation.
+<br>
+<br>
+This message and any attachments are confidential and intended for the named addressee(s) only.
+If you have received this message in error, please notify immediately the sender, then delete
+the message. Any unauthorized modification, edition, use or dissemination is prohibited.
+The sender does not be liable for this message if it has been modified, altered, falsified,
+infected by a virus or even edited or disseminated without authorization.
+</div></td></tr></table></div></body></html>
+
+------=_NextPart_000_0000_01C6527E.AE8904D0--
