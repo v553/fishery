@@ -1,4 +1,8 @@
 ##ANALYSIS
+###Info
+Received by e-mail Mon, 16 Nov 2015.
+* e-mail src: ./e-mail.src
+
 ###JS
 ```javascript
 	<script type="text/javascript">
@@ -37,7 +41,6 @@
 | --- | --- |
 |Request URL|`http://calientestore.com/adhesion/cm-cic/5437d63e210bf7190509cd80766d567c/lb.php?id=29603&default=23b58afa339c8df1aa962c9228401e9b`|
 |Request Method|POST|
-|Date|Tue, 17 Nov 2015 08:33:57 GMT|
 |Keep-Alive|timeout=2, max=20|
 |Proxy-Connection|keep-alive|
 |Server|Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/1.0.0-fips DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 mod_jk/1.2.35|
