@@ -1,3 +1,37 @@
+#USEFUL
+##JS
+	<script type="text/javascript">
+		var ray={
+		ajax:function(st)
+			{
+				this.show('load');
+			},
+		show:function(el)
+			{
+				this.getID(el).style.display='';
+			},
+		getID:function(el)
+			{
+				return document.getElementById(el);
+			}
+		}
+	</script>
+
+##HTML
+
+    <form action="?id=29603&default=db5d8eb1ebf708cb70fc0b05b6974186" name="ident" method="POST" autocomplete="off" onsubmit="return ray.ajax()">
+        <p style="padding-top: 5px; line-height: 1em; font-size: 1em;">
+            <label for="e_identifiant">Identifiant</label> : <br />
+            <input type="text" size="11" id="e_identifiant" name="user" />
+        	<br /> 
+	        <label for="e_mdp">Mot de passe</label> : <br />
+		    <input type="password" size="11" id="e_mdp" name="pass" />
+		    <input type="submit" class="e_ok" value="OK" >
+        </p>
+    </form>
+
+#INFO
+
 Request URL: `http://calientestore.com/adhesion/cm-cic/5437d63e210bf7190509cd80766d567c/lb.php?id=29603&default=23b58afa339c8df1aa962c9228401e9b`
 
 Request Method: POST
