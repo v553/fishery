@@ -1,7 +1,7 @@
 ##ANALYSIS
 ###Info
 Received by e-mail Mon, 16 Nov 2015.
-* [e-mail src](../../CIC/e-mail.src)
+* [e-mail src](e-mail.src)
 
 ###JS
 ```javascript
