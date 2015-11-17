@@ -1,7 +1,7 @@
 ##ANALYSIS
 ###Info
 Received by e-mail Mon, 16 Nov 2015.
-* e-mail src: ./e-mail.src
+* e-mail src: v533/fishery/CIC/e-mail.src
 
 ###JS
 ```javascript
