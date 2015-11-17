@@ -1,6 +1,6 @@
-##ANALYSIS
+##Details
 ###Info
-Received by e-mail Mon, 16 Nov 2015.
+Received by e-mail on Mon, 16 Nov 2015.
 * [e-mail src](e-mail.src)
 
 ###JS
